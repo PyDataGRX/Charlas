@@ -56,9 +56,12 @@ df_pandas = df.toPandas() # Qué hará esto?
 
 
 # Cositas extra!
+
 Link al Meetup para dejar tus good vibes y comentarios
-Twitter de Eugenio para dar las gracias, pedir consejo o criticar sus artes oscuras
-Perfil de contacto y web de Eugenio
+
+[Twitter de Eugenio](https://twitter.com/nenetto) para dar las gracias, pedir consejo o criticar sus artes oscuras
+
+Perfil de [contacto](https://www.linkedin.com/in/marinetto/) y [web](https://nenetto.com/) de Eugenio 
 
 Si tenéis cualquier duda o probando alguna cosilla os atrancáis me decís en un correito SIN problema, no shame!. Yo no nací sabiendo nada de todo esto y aún me queda mucho que aprender seguro, pero no tengo por qué hacerlo solo. Mucho ánimo en vuestras carreras profesionales y abrazo muy fuerte!
 

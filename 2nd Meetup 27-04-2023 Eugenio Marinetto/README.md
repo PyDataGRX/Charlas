@@ -24,7 +24,7 @@ En este workshop totalmente hands-on veremos:
     - Ejecutar notebooks
 
     
-  -Introducción a Spark en Python
+  - Introducción a Spark en Python
 
     - Cómo funciona Spark y su ejecución en paralelo
     - Cómo crear un pipeline Big Data
