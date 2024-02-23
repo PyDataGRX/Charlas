@@ -29,6 +29,7 @@ Exploraremos el revolucionario mundo de Generative AI y cómo puede ser aplicado
 
 ### Aprendiendo a clasificar imágenes médicas ([Slides](Fran.pdf))
 Todos los métodos que conocemos para clasificar imágenes necesitan grandes cantidades de ejemplos etiquetados; imágenes a las que una o varias personas les han asignado una etiqueta. Si queremos usar estos métodos para diagnosticar enfermedades, necesitamos que los médicos etiqueten imágenes médicas. Sin embargo, el tiempo del que disponen los médicos es muy limitado y caro, por lo que es prácticamente imposible obtener grandes conjuntos de imágenes médicas anotadas manualmente. En esta charla exploraremos cómo podemos resolver este problema usando “paradigmas de etiquetado débil”. Profundizaremos en algunas aplicaciones, como la detección de hemorragias intracraneales o la detección de cáncer.
+
 **Ponente:** Francisco Miguel Castro Macías
 
 ## Evento patrocinado por:
