@@ -22,6 +22,8 @@ En la era del Big Data, las empresas tienen acceso a grandes cantidades de infor
 ### El gemelo digital en ingeniería civil ([Slides](maria.pdf))
 La ingeniería civil se encuentra en una coyuntura crítica del siglo XXI, enfrentando una serie de desafíos y oportunidades que demandan un cambio en las prácticas y metodologías tradicionales. Con numerosas estructuras construidas llegando al final de su vida útil, surge la necesidad imperiosa de implantar soluciones sostenibles y tecnológicamente avanzadas. Con el fin de abordar este desafío, se presenta un marco conceptual integral de gemelo digital, considerando aspectos como el envejecimiento de las infraestructuras y su digitalización, la necesidad de modelos analíticos que funcionen en tiempo real y la escasez de datos para su entrenamiento. Se investigan estrategias para la operación y mantenimiento, así como la adopción cohesionada de tecnologías digitales, como el Modelado de Información de Construcción (BIM), el Internet de las Cosas (IoT) y la Inteligencia Artificial (IA), empleando modelos de deep learning tanto generativos (conditional WGAN-GP) como predictivos (regresores y clasificadores basados en CNNs).
 
+Notebooks de la charla: [Github](https://github.com/mmmmaria/Digital-twin)
+
 **Ponente:** María Megía Cardeñoso
 
 ## Evento patrocinado por:
