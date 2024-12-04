@@ -27,5 +27,3 @@ En esta charla con perspectiva divulgativa daremos un paseo por las bases de la 
 
 **Ponente:** [Andrés Matesanz](https://www.linkedin.com/in/aimatesanz/)
 
-## Evento patrocinado por:
-[Fundación PTS](https://ptsgranada.com/fundacion/)
