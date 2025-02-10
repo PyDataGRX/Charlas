@@ -3,7 +3,7 @@
 
 ---
 
-# Octavo Meetup 21-11-2024
+# Noveno Meetup 21-11-2024
 
 Evento Especial incluido como Microevento dentro del [II Congreso de Inteligencia Artificial de Andalucía](https://www.juntadeandalucia.es/congresoIA/).
 
