@@ -56,3 +56,5 @@ We explore innovative techniques to dynamically adapt neural network architectur
 ### Beyond (qu)bits: Portfolio Optimization with Quantum Computing ([Slides](slides_luisa.pdf))
 
 Is it possible to use a quantum computer to make better financial decisions? In this talk, we’ll explore how to formulate the classic portfolio optimization problem — where we seek to maximize return and minimize risk — in a language a quantum computer can understand. We'll see how it’s translated into a QUBO problem, implemented in Qiskit, and what advantages it may offer over traditional methods. Through practical examples, you'll learn how to combine your data science knowledge with new quantum capabilities and what the future holds at the intersection of finance, optimization, and quantum physics.
+
+**Speaker: [Luisa María Meseguer Pérez](https://www.linkedin.com/in/luisa-mar%C3%ADa-meseguer-p%C3%A9rez-4625122a9/)**
