@@ -2,7 +2,7 @@
 
 ---
 
-# Decimocuarto Meetup – 22/01/2026
+# Decimoquinto Meetup – 22/01/2026
 
 ## Ponentes (por orden de intervención)
 
@@ -36,7 +36,7 @@ La charla presenta, en un formato divulgativo y dinámico, los prototipos desarr
 
 ---
 
-# Fourteenth Meetup – 01/22/2026
+# Fifteenth Meetup – 01/22/2026
 
 ## Speakers (in order of appearance)
 
